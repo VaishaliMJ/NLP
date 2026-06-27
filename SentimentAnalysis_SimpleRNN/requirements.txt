@@ -1,0 +1,14 @@
+# Python 3.12 Core Frameworks
+numpy==1.26.4
+tensorflow==2.21.0
+
+# Preprocessing & Data Management
+pandas==2.2.2
+scikit-learn==1.5.2
+
+# Visualization & Logging
+matplotlib==3.9.2
+tensorboard==2.20.0
+
+# Application Interface
+streamlit>=1.41.0
